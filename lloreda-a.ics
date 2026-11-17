@@ -256,4 +256,40 @@ SUMMARY:J26: A.D. Lloreda "A" vs Veriña C.F. "B" (hora por confirmar)
 LOCATION:LLOREDA (H.SINTÉTICA)
 DESCRIPTION:Jornada 26 - 3ª Cadete. Generado automáticamente desde Asturfutbol
 END:VEVENT
+BEGIN:VEVENT
+UID:j27-4412@asturfutbol-cal
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:J27: Berron C.F. "A" vs A.D. Lloreda "A" (hora por confirmar)
+LOCATION:SERGIO SANCHEZ 2 (H. SINTÉTICA)
+DESCRIPTION:Jornada 27 - 3ª Cadete. Generado automáticamente desde Asturfutbol
+END:VEVENT
+BEGIN:VEVENT
+UID:j28-4412@asturfutbol-cal
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:J28: Escuela Futbol Mareo "A" vs A.D. Lloreda "A" (hora por confirmar)
+LOCATION:MAREO 6 (H.SINTÉTICA)
+DESCRIPTION:Jornada 28 - 3ª Cadete. Generado automáticamente desde Asturfutbol
+END:VEVENT
+BEGIN:VEVENT
+UID:j29-4412@asturfutbol-cal
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:J29: A.D. Lloreda "A" vs Condal C.F. "B" (hora por confirmar)
+LOCATION:LLOREDA (H.SINTÉTICA)
+DESCRIPTION:Jornada 29 - 3ª Cadete. Generado automáticamente desde Asturfutbol
+END:VEVENT
+BEGIN:VEVENT
+UID:j30-4412@asturfutbol-cal
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:J30: Cimadevilla C.F. "A" vs A.D. Lloreda "A" (hora por confirmar)
+LOCATION:MUNICIPAL VEGA(H.SINTETICA)
+DESCRIPTION:Jornada 30 - 3ª Cadete. Generado automáticamente desde Asturfutbol
+END:VEVENT
 END:VCALENDAR

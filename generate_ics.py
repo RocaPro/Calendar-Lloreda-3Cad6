@@ -19,7 +19,7 @@ COMPETICION = "22880353"
 GRUPO = "23079986"
 TEMPORADA = "22"
 TIPO_JUEGO = "1"
-NUM_JORNADAS = 26                   # <- nº de jornadas de la liga (ajustar)
+NUM_JORNADAS = 30                   # nº de jornadas de la liga
 
 DURACION_PARTIDO = timedelta(hours=1, minutes=45)
 

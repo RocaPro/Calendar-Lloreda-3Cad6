@@ -106,9 +106,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:j10-4412@asturfutbol-cal
 DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:J10: A.D. Lloreda "A" vs C.D. Gijón Perchera F.S. "A" (hora por confirmar)
+DTSTART;TZID=Europe/Madrid:20261206T150000
+DTEND;TZID=Europe/Madrid:20261206T164500
+SUMMARY:J10: A.D. Lloreda "A" vs C.D. Gijón Perchera F.S. "A"
 LOCATION:LLOREDA (H.SINTÉTICA)
 DESCRIPTION:Jornada 10 - 3ª Cadete. Generado automáticamente desde Asturfutbol
 END:VEVENT
